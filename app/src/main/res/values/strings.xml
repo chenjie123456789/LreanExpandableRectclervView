@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LearnExpandableRecyclerView</string>
+    <string name="ids">ID</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="ok">OK</string>
+    <string name="dialog_title_text">Hi!there</string>
+    <string name="user_name">Oreki Houtarou</string>
+    <string name="my_build">My build</string>
+    <string name="my_collected">My Collected</string>
+    <string name="fan">Fans</string>
+    <string name="attract">Attract</string>
+    <string name="number" translatable="false">01</string>
+    <string name="error">Error</string>
+    <string name="cardName" translatable="false">card_go</string>
+    <string name="imageName" translatable="false">image_go</string>
+    <string name="detail">Origi, the first actor in the mystery novel \"Classical Series\" and the animation \"Hyouka\". Have excellent insight and reasoning skills. The life credo is \"Don\'t do what you can\'t do, and keep everything simple if you don\'t do it.\" He calls himself an \"energy conservationist.\" Little interest in club activities on campus, but joined the classical club at the invitation of my sister. His insight and reasoning ability was discovered by Chitanda Airu of the Classical Society. Faced with the often curious Chitanda Airu, he began to analyze some mysteries in life.</string>
+    <string name="musiclistdetail">Music LIst Deill</string>
+    <string name="musicName" translatable="false">That girl</string>
+    <string name="musicActor" translatable="false">Olly Murs</string>
+</resources>

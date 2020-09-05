@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">网易云扩展栏练习项目</string>
+    <string name="ids">输入id</string>
+    <string name="ok">确定</string>
+    <string name="dialog_title_text">看这里</string>
+    <string name="user_name">折木奉太郎</string>
+    <string name="my_build">我创建的</string>
+    <string name="my_collected">我的收藏</string>
+    <string name="fan">粉丝</string>
+    <string name="attract">关注</string>
+    <string name="error">错误</string>
+    <string name="detail">折木奉太郎，推理小说《古典部系列》、动画《冰菓》第一男主角。拥有出色的洞察力和推理能力。人生信条是“不做也行的事情就不做，非做不可的事情一切从简”，自称“节能主义者”。对校内的社团活动几乎没有兴趣，但在姐姐的邀请下加入了古典社。洞察力和推理能力被古典社的千反田爱瑠发现，面对时常充满好奇心的千反田爱瑠而开始分析一些生活中的谜团。</string>
+    <string name="musiclistdetail">音乐列表详情</string>
+</resources>
